@@ -2,3 +2,9 @@ Active directory
 
 service
 keeps n manages in fo about users n computers
+
+Domain controller
+
+server
+that has one sw installed, name of sw is Active Directory Domain Services (AD DS)
+
